@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/HorizonX/static/css/main.55142db3.css",
+    "main.js": "/HorizonX/static/js/main.61573b38.js",
+    "static/js/453.8ab44547.chunk.js": "/HorizonX/static/js/453.8ab44547.chunk.js",
+    "static/media/heroImg.jpg": "/HorizonX/static/media/heroImg.2cfe61e702e602d5ba36.jpg",
+    "index.html": "/HorizonX/index.html",
+    "main.55142db3.css.map": "/HorizonX/static/css/main.55142db3.css.map",
+    "main.61573b38.js.map": "/HorizonX/static/js/main.61573b38.js.map",
+    "453.8ab44547.chunk.js.map": "/HorizonX/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55142db3.css",
+    "static/js/main.61573b38.js"
+  ]
+}
