@@ -93,12 +93,15 @@
     font-weight: bold;
     position: absolute;
     top: 20px; /* Position it at the top */
+    
 }
 
 .hero-subtitle {
+    font-weight: bold;
+    opacity: 0.8;
     font-size: 24px;
-    padding-bottom: 20px;
-    margin: 34px 10px; /* Add margin to separate from title */
+    padding-bottom: 30px;
+    margin: 50px 10px; /* Add margin to separate from title */
 }
 
 .hero-search-bar {

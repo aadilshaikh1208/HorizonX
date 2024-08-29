@@ -1,0 +1,94 @@
+.discover-container {
+  padding: 20px; /* Add some padding */
+  border: 1px solid red;
+  height: 100vh;
+}
+
+.h2-title {
+  margin-left: 30px;
+  margin-bottom: 20px; /* Space between the heading and buttons */
+}
+
+.button-container {
+  display: flex; /* Use flexbox to align buttons inline */
+  gap: 10px; /* Space between the buttons */
+  margin-top: 25px;
+  margin-left: 25px;
+}
+
+.button-container button {
+  font-weight: bold;
+  padding: 13px 20px; /* Add padding inside the buttons */
+  border: 1px solid black;
+  border-radius: 25px; /* Rounded corners */
+  color: black; /* Text color */
+  font-size: 16px; /* Font size */
+  cursor: pointer; /* Pointer cursor on hover */
+  transition: background-color 0.3s ease, color 0.3s ease; /* Smooth color transition */
+  background-color: white;
+}
+
+.button-container button.active {
+  background-color: black; /* Background color when active */
+  color: white; /* Text color when active */
+}
+
+.grid-container {
+  display: grid; /* Use CSS Grid */
+  grid-template-columns: repeat(2, 1fr); /* 2 columns */
+  grid-template-rows: repeat(2, auto); /* 2 rows */
+  gap: 10px; /* Space between grid items */
+  margin-top: 20px; /* Space between buttons and grid */
+  height: 75vh;
+}
+
+.grid-item {
+  position: relative;
+  border: 1px solid #ddd; /* Border around grid items */
+  border-radius: 5px; /* Rounded corners */
+  background-color: #fff; /* Background color of grid items */
+  padding: 20px; /* Padding inside the grid item */
+  max-width: 100%; /* Ensure it fits within the container */
+  box-sizing: border-box; 
+  transition: border-color 0.3s ease; /* Smooth transition for border color */
+}
+
+.grid-item:hover {
+  border-color: black; /* Border color on hover */
+}
+
+.grid-title {
+  position: relative;
+  display: inline;
+  padding: 10px; /* Adds space inside the element above the title */
+  top: 20px;
+}
+
+.grid-item .grid-paragraph {
+  position: relative;
+  top: 30px;
+  opacity: 0.6;
+  font-weight: bold;
+  left: 10px;
+  white-space: normal;
+  word-wrap: break-word; /* Breaks long words to wrap within the container */
+  max-width: calc(100% - 20px); /* Ensures the paragraph fits within the container with padding */
+}
+
+.grid-item img {
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 50px;
+  margin: 10px;
+}
+
+.grid-link {
+  display: inline-block;
+  position: relative;
+  top: 70px;
+  margin-top: 10px;
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+  text-decoration: underline;
+}
