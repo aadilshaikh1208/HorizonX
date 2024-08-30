@@ -1,7 +1,7 @@
 .discover-container {
   padding: 20px; /* Add some padding */
-  border: 1px solid red;
-  height: 100vh;
+  height: 100vh; /* Full viewport height */
+  box-sizing: border-box; /* Include padding and border in width/height */
 }
 
 .h2-title {
@@ -42,6 +42,23 @@
   height: 75vh;
 }
 
+/* Grid layout for the "Buying" button */
+.grid-container.buying {
+  grid-template-columns: repeat(2, 1fr); /* Two columns for buying */
+  grid-template-rows: repeat(2, auto); /* Two rows for buying */
+}
+
+/* Grid layout for the "Renting" button */
+.grid-container.renting {
+  grid-template-columns: repeat(3, 1fr); /* Three columns for renting */
+  grid-template-rows: 0.5fr; /* Single row for renting */
+}
+
+.grid-container.selling {
+  grid-template-columns: repeat(3, 1fr); /* Three columns for selling */
+  grid-template-rows: 0.5fr; /* Single row for selling */
+}
+
 .grid-item {
   position: relative;
   border: 1px solid #ddd; /* Border around grid items */
@@ -61,7 +78,7 @@
   position: relative;
   display: inline;
   padding: 10px; /* Adds space inside the element above the title */
-  top: 20px;
+  top: 20px; /* Space between title and other elements */
 }
 
 .grid-item .grid-paragraph {
@@ -78,9 +95,10 @@
 .grid-item img {
   position: absolute;
   top: 0;
-  right: 0;
+  right: 10px;
   height: 50px;
-  margin: 10px;
+  width: fit-content;
+  margin-top: 10px;
 }
 
 .grid-link {
@@ -92,3 +110,4 @@
   color: rgb(0, 0, 0);
   text-decoration: underline;
 }
+

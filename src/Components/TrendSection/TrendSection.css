@@ -1,0 +1,57 @@
+.trends-section {
+    height: 90vh;
+    margin-top: 15vh;
+    text-align: center;
+    overflow: hidden;   
+    position: relative;
+  }
+
+
+.trends-section img{
+    position: relative;
+    bottom: 25vh;
+    width: 95vw;
+    filter: brightness(60%) contrast(120%);
+    background-color: #eceaea;
+    
+}
+
+
+.trend-title{
+    width: fit-content;
+    position: relative;
+    top: 25vh;
+    left: 45vw;
+    color: white;
+    font-size:25px;
+    z-index: 1;
+    opacity: 0.9;
+}  
+
+.trend-paragraph{
+    position: relative;
+    z-index: 1;
+    font-weight: bold;
+    font-size: 26px;
+    top: 25vh;
+    color: aliceblue;
+}
+
+.read-button{
+    position: relative;
+    z-index:1 ;
+    border: 2px solid black;
+    border-radius: 25px;
+    padding: 13px 25px 13px 25px;
+    top: 32vh;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+
+}
+
+.read-button:hover{
+    background-color: transparent;
+    opacity: 0.8;
+}
