@@ -1,28 +1,36 @@
 {
   "files": {
-    "main.css": "/HorizonX/static/css/main.b1c73c61.css",
-    "main.js": "/HorizonX/static/js/main.39040200.js",
+    "main.css": "/HorizonX/static/css/main.f8ce2fb9.css",
+    "main.js": "/HorizonX/static/js/main.19b94386.js",
     "static/js/453.8ab44547.chunk.js": "/HorizonX/static/js/453.8ab44547.chunk.js",
+    "static/media/trendsImg.jpg": "/HorizonX/static/media/trendsImg.e7f3cd4120dc0f5a9313.jpg",
     "static/media/heroImg.jpg": "/HorizonX/static/media/heroImg.2cfe61e702e602d5ba36.jpg",
     "static/media/pic-8.png": "/HorizonX/static/media/pic-8.85151d9a66d03637132b.png",
     "static/media/pic-7.png": "/HorizonX/static/media/pic-7.0655b929de91da433255.png",
     "static/media/pic-3.png": "/HorizonX/static/media/pic-3.faacea278dd14b6d9a45.png",
     "static/media/pic-4.png": "/HorizonX/static/media/pic-4.126d85347ca6a8efe7f2.png",
+    "static/media/manImg.jpg": "/HorizonX/static/media/manImg.2da01a4c85ab4f094767.jpg",
     "static/media/pic-6.png": "/HorizonX/static/media/pic-6.e71d744a0e7390cebdb7.png",
     "static/media/pic-1.png": "/HorizonX/static/media/pic-1.18405099754daf6a3621.png",
     "static/media/pic-2.png": "/HorizonX/static/media/pic-2.e6213d52909377a8c906.png",
     "static/media/pic-5.png": "/HorizonX/static/media/pic-5.0a0366130519ce87362f.png",
     "static/media/spot-money.svg": "/HorizonX/static/media/spot-money.691dca8c2576aa155afb1cc7826e1e3d.svg",
+    "static/media/spot-house.svg": "/HorizonX/static/media/spot-house.db10d636a24e43b310bd538ba527a183.svg",
     "static/media/spot-agent.svg": "/HorizonX/static/media/spot-agent.da712a70eba02c0a97860da6c73aa6a9.svg",
     "static/media/spot-cash.svg": "/HorizonX/static/media/spot-cash.5da36475db47801d13b94def876bff13.svg",
+    "static/media/spot-arrows.svg": "/HorizonX/static/media/spot-arrows.76de83b0636e3b64fc79d37907ff3012.svg",
+    "static/media/spot-rent.svg": "/HorizonX/static/media/spot-rent.fff78d87cda275bd4a92fcfc56ad3610.svg",
+    "static/media/spot-sell.svg": "/HorizonX/static/media/spot-sell.3a5e78bb8206fa8b32359d8652a46166.svg",
+    "static/media/spot-profile.svg": "/HorizonX/static/media/spot-profile.4fc19f2d80c2d1a4b37aa9170eb12b00.svg",
+    "static/media/spot-pending.svg": "/HorizonX/static/media/spot-pending.14cbb2947c93d12dfc3f62494d8d8c68.svg",
     "static/media/spot-calculator.svg": "/HorizonX/static/media/spot-calculator.d6e21814f7ab80fb4a3b7b66b84f1681.svg",
     "index.html": "/HorizonX/index.html",
-    "main.b1c73c61.css.map": "/HorizonX/static/css/main.b1c73c61.css.map",
-    "main.39040200.js.map": "/HorizonX/static/js/main.39040200.js.map",
+    "main.f8ce2fb9.css.map": "/HorizonX/static/css/main.f8ce2fb9.css.map",
+    "main.19b94386.js.map": "/HorizonX/static/js/main.19b94386.js.map",
     "453.8ab44547.chunk.js.map": "/HorizonX/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b1c73c61.css",
-    "static/js/main.39040200.js"
+    "static/css/main.f8ce2fb9.css",
+    "static/js/main.19b94386.js"
   ]
 }
