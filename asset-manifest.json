@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/HorizonX/static/css/main.f8ce2fb9.css",
-    "main.js": "/HorizonX/static/js/main.19b94386.js",
+    "main.css": "/HorizonX/static/css/main.6a484464.css",
+    "main.js": "/HorizonX/static/js/main.01802dc7.js",
     "static/js/453.8ab44547.chunk.js": "/HorizonX/static/js/453.8ab44547.chunk.js",
     "static/media/trendsImg.jpg": "/HorizonX/static/media/trendsImg.e7f3cd4120dc0f5a9313.jpg",
     "static/media/heroImg.jpg": "/HorizonX/static/media/heroImg.2cfe61e702e602d5ba36.jpg",
@@ -23,14 +23,14 @@
     "static/media/spot-sell.svg": "/HorizonX/static/media/spot-sell.3a5e78bb8206fa8b32359d8652a46166.svg",
     "static/media/spot-profile.svg": "/HorizonX/static/media/spot-profile.4fc19f2d80c2d1a4b37aa9170eb12b00.svg",
     "static/media/spot-pending.svg": "/HorizonX/static/media/spot-pending.14cbb2947c93d12dfc3f62494d8d8c68.svg",
-    "static/media/spot-calculator.svg": "/HorizonX/static/media/spot-calculator.d6e21814f7ab80fb4a3b7b66b84f1681.svg",
     "index.html": "/HorizonX/index.html",
-    "main.f8ce2fb9.css.map": "/HorizonX/static/css/main.f8ce2fb9.css.map",
-    "main.19b94386.js.map": "/HorizonX/static/js/main.19b94386.js.map",
+    "static/media/spot-calculator.svg": "/HorizonX/static/media/spot-calculator.d6e21814f7ab80fb4a3b7b66b84f1681.svg",
+    "main.6a484464.css.map": "/HorizonX/static/css/main.6a484464.css.map",
+    "main.01802dc7.js.map": "/HorizonX/static/js/main.01802dc7.js.map",
     "453.8ab44547.chunk.js.map": "/HorizonX/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f8ce2fb9.css",
-    "static/js/main.19b94386.js"
+    "static/css/main.6a484464.css",
+    "static/js/main.01802dc7.js"
   ]
 }
