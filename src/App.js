@@ -5,6 +5,7 @@ import HomeSection from './Components/HomeSection/HomeSection';
 import DiscoverSection from './Components/DiscoverSection/DiscoverSection';
 import TrendsSection from './Components/TrendSection/TrendSection';
 import LoanSection from './Components/LoanSection/LoanSection';
+import Footer from './Components/FooterSection/Footer';
 function App() {
     return (
         <div className="App">
@@ -14,6 +15,8 @@ function App() {
             <DiscoverSection />
             <TrendsSection />
             <LoanSection />
+            <Footer />
+            
             {/* Other components like pages will go here */}
         </div>
     );

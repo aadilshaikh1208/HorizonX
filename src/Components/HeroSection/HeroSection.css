@@ -1,3 +1,4 @@
+/* Base Styles */
 * {
     font-family: Galano Grotesque Alt, Adjusted Trebuchet MS Fallback, Trebuchet MS, sans-serif;
 }
@@ -93,7 +94,6 @@
     font-weight: bold;
     position: absolute;
     top: 20px; /* Position it at the top */
-    
 }
 
 .hero-subtitle {
@@ -137,4 +137,91 @@
 
 .search-icon:hover {
     opacity: 0.7; /* Darker shade on hover */
+}
+
+/* Responsive Styles */
+@media (max-width: 1024px) {
+    .hero-section {
+        height: 50vh; /* Adjust height for medium screens */
+    }
+
+    .hero-title {
+        font-size: 36px; /* Smaller font size for title */
+    }
+
+    .hero-subtitle {
+        font-size: 20px; /* Smaller font size for subtitle */
+        margin: 30px 10px; /* Adjust margins */
+    }
+
+    .hero-navbar {
+        top: 120px; /* Adjust top positioning */
+    }
+
+    .hero-navbar-links {
+        gap: 40px; /* Adjust space between links */
+    }
+
+    .hero-search-bar {
+        max-width: 600px; /* Adjust maximum width */
+    }
+}
+
+@media (max-width: 768px) {
+    .hero-section {
+        height: 40vh; /* Further adjust height for small screens */
+        padding: 10px; /* Reduce padding */
+    }
+
+    .hero-title {
+        font-size: 28px; /* Even smaller font size for title */
+        top: 10px; /* Adjust top positioning */
+    }
+
+    .hero-subtitle {
+        font-size: 18px; /* Smaller font size for subtitle */
+        margin: 20px 5px; /* Adjust margins */
+    }
+
+    .hero-navbar {
+        top: 80px; /* Further adjust top positioning */
+    }
+
+    .hero-navbar-links {
+        gap: 20px; /* Adjust space between links */
+    }
+
+    .hero-search-bar {
+        max-width: 100%; /* Full width */
+    }
+}
+
+@media (max-width: 480px) {
+    .hero-section {
+        height: 30vh; /* Further adjust height for extra-small screens */
+        padding: 5px; /* Reduce padding */
+    }
+
+    .hero-title {
+        font-size: 22px; /* Smaller font size for title */
+        top: 36px; /* Adjust top positioning */
+    }
+
+    .hero-subtitle {
+        font-size: 13px; /* Smaller font size for subtitle */
+        margin: 20px;
+    }
+
+    .hero-navbar {
+        top: 60px; /* Further adjust top positioning */
+    }
+
+    .hero-navbar-links {
+        gap: 15px; /* Adjust space between links */
+        flex-direction: row; /* Stack links vertically */
+    }
+
+    .hero-search-bar {
+        max-width: 100%; /* Full width */
+    }
 }

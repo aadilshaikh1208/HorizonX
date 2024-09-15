@@ -3,8 +3,7 @@ import './TrendSection.css';
 import trendImg from '../../assets/trendsImg.jpg'
 const TrendsSection = () => {
   return (
-    <div className="trends-section">
-    
+    <div className="trends-section" id='trends'>
       <h3 className='trend-title'>Trends</h3>
       <p className='trend-paragraph'>
       The 10 Markets That Could See the Biggest Home <br></br> Affordability Gains as Mortgage Rates Drop
