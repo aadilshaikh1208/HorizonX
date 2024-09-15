@@ -123,7 +123,7 @@
     .navbar {
         padding: 10px;
         flex-direction: column;
-        align-items: flex-start;
+        align-items:center;
     }
 
     .navbar-logo {
@@ -136,18 +136,20 @@
         display: flex;
         flex-direction: column;
         width: 100%;
-        text-align: left;
+        text-align: center;
         font-size: 14px;
     }
 
     .navbar-links li {
-        margin: 10px 0;
+        margin-top: 10px;
+        margin-right: 50px;
     }
 
     .navbar-buttons {
         margin-top: 10px;
         width: 100%;
         justify-content: space-between;
+        align-items: center;
     }
 
     .navbar-buttons .login-btn,

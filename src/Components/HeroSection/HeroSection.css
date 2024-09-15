@@ -203,13 +203,12 @@
     }
 
     .hero-title {
-        font-size: 22px; /* Smaller font size for title */
+        font-size: 20px; /* Smaller font size for title */
         top: 36px; /* Adjust top positioning */
     }
 
     .hero-subtitle {
         font-size: 13px; /* Smaller font size for subtitle */
-        margin: 20px;
     }
 
     .hero-navbar {
