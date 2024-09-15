@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/HorizonX/static/css/main.6a484464.css",
+    "main.css": "/HorizonX/static/css/main.2009a090.css",
     "main.js": "/HorizonX/static/js/main.01802dc7.js",
     "static/js/453.8ab44547.chunk.js": "/HorizonX/static/js/453.8ab44547.chunk.js",
     "static/media/trendsImg.jpg": "/HorizonX/static/media/trendsImg.e7f3cd4120dc0f5a9313.jpg",
@@ -25,12 +25,12 @@
     "static/media/spot-pending.svg": "/HorizonX/static/media/spot-pending.14cbb2947c93d12dfc3f62494d8d8c68.svg",
     "index.html": "/HorizonX/index.html",
     "static/media/spot-calculator.svg": "/HorizonX/static/media/spot-calculator.d6e21814f7ab80fb4a3b7b66b84f1681.svg",
-    "main.6a484464.css.map": "/HorizonX/static/css/main.6a484464.css.map",
+    "main.2009a090.css.map": "/HorizonX/static/css/main.2009a090.css.map",
     "main.01802dc7.js.map": "/HorizonX/static/js/main.01802dc7.js.map",
     "453.8ab44547.chunk.js.map": "/HorizonX/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6a484464.css",
+    "static/css/main.2009a090.css",
     "static/js/main.01802dc7.js"
   ]
 }
